@@ -1,122 +1,164 @@
-[
-  {
-    "id": 1,
-    "title": "Superfon",
-    "description": "Backend API inteqrasiyası, səbət və sifariş sistemi ilə tam funksional e-ticarət platforması.",
-    "tags": ["React", "Tailwind", "API", "Node"],
-    "url": "https://div-superfon-m8vg.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/DivSuperfon"
-  },
-  {
-    "id": 2,
-    "title": "YerTap",
-    "description": "Axtarış və filtrasiya funksiyaları ilə məkan tapma tətbiqi, React state idarəetməsi üzərində qurulub.",
-    "tags": ["React"],
-    "url": "https://yer-tap.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/YerTap"
-  },
-  {
-    "id": 3,
-    "title": "Bigspring",
-    "description": "Responsiv, tək səhifəlik landing page dizaynı, animasiyalı UI elementləri ilə.",
-    "tags": ["Js", "Tailwind"],
-    "url": "https://bigspring-five.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/bigspring"
-  },
-  {
-    "id": 4,
-    "title": "Filter",
-    "description": "Kateqoriya və qiymətə görə real-vaxt məhsul filtrasiyası, xalis JavaScript ilə həyata keçirilib.",
-    "tags": ["Js", "Tailwind"],
-    "url": "https://javascript-product-filter.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/javascript-product-filter"
-  },
-  {
-    "id": 5,
-    "title": "Calculator",
-    "description": "Endirimli məhsul qiymətlərini avtomatik hesablayan interaktiv kalkulyator tətbiqi.",
-    "tags": ["Js", "Tailwind"],
-    "url": "https://task-calculate-discounted-product-p.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/task-calculate-discounted-product-prices"
-  },
-  {
-    "id": 6,
-    "title": "Tropika",
-    "description": "Minimalist dizaynlı, tək səhifəlik tanıtım saytı.",
-    "tags": ["Js", "Tailwind"],
-    "url": "https://tropika-pied.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/Tropika"
-  },
-  {
-    "id": 7,
-    "title": "Pagination",
-    "description": "Böyük data setlərini səhifələrə bölərək göstərən pagination komponenti.",
-    "tags": ["Js", "Tailwind"],
-    "url": "https://js-pagination-app.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/js-pagination-app"
-  },
-  {
-    "id": 8,
-    "title": "Login-verification",
-    "description": "Real-vaxt form validasiyası ilə email/parol yoxlaması edən giriş sistemi.",
-    "tags": ["Js", "Tailwind"],
-    "url": "https://javascript-login-verification2.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/javascript-login-verification2"
-  },
-  {
-    "id": 9,
-    "title": "Avers",
-    "description": "Məzmunu idarə etmək üçün admin panel funksionallığı əlavə olunmuş veb səhifə.",
-    "tags": ["Js", "Tailwind"],
-    "url": "https://avers-page-v3ch.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/Avers---page"
-  },
-  {
-    "id": 10,
-    "title": "Funksional sayt",
-    "description": "Səbətə əlavə et və istək siyahısı funksiyaları tam işlək olan e-ticarət interfeysi.",
-    "tags": ["Js", "Tailwind"],
-    "url": "https://site1-functionality.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/site1-functionality"
-  },
-  {
-    "id": 11,
-    "title": "Abb kalkulyator",
-    "description": "Bank əməliyyatları üçün hesablama məntiqini simulyasiya edən JavaScript kalkulyatoru.",
-    "tags": ["Js", "Tailwind"],
-    "url": "https://abb-calculator-navy.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/abb-calculator"
-  },
-  {
-    "id": 12,
-    "title": "Property",
-    "description": "Əmlak elanlarını göstərən carousel əsaslı, tam responsiv səhifə.",
-    "tags": ["Js", "Tailwind"],
-    "url": "https://property-carousel.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/property-carousel-"
-  },
-  {
-    "id": 13,
-    "title": "Health-center",
-    "description": "Səhiyyə mərkəzi üçün hazırlanmış tam responsiv tanıtım səhifəsi.",
-    "tags": ["Html", "Css"],
-    "url": "https://health-center-task2.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/Health-Center-task2-"
-  },
-  {
-    "id": 14,
-    "title": "Dento",
-    "description": "Diş klinikası üçün müasir, tam responsiv landing page.",
-    "tags": ["Html", "Css"],
-    "url": "https://dento-1.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/Dento-1"
-  },
-  {
-    "id": 15,
-    "title": "Ingress",
-    "description": "Çoxsəhifəli struktur və komponent arxitekturası ilə akademiya bitirmə layihəsi.",
-    "tags": ["React", "Tailwind"],
-    "url": "https://ingress-ac-final-project.vercel.app/",
-    "github": "https://github.com/Asildar-Hajiyev/Ingress_Ac_Final_Project"
-  }
-]
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Superfon",
+      "description": "Backend API inteqrasiyası, səbət və sifariş sistemi ilə tam funksional e-ticarət platforması.",
+      "tags": ["React", "Tailwind", "API", "Node"],
+      "url": "https://div-superfon-m8vg.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/DivSuperfon"
+    },
+    {
+      "id": 2,
+      "title": "YerTap",
+      "description": "Axtarış və filtrasiya funksiyaları ilə məkan tapma tətbiqi, React state idarəetməsi üzərində qurulub.",
+      "tags": ["React"],
+      "url": "https://yer-tap.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/YerTap"
+    },
+    {
+      "id": 3,
+      "title": "Bigspring",
+      "description": "Responsiv, tək səhifəlik landing page dizaynı, animasiyalı UI elementləri ilə.",
+      "tags": ["Js", "Tailwind"],
+      "url": "https://bigspring-five.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/bigspring"
+    },
+    {
+      "id": 4,
+      "title": "Filter",
+      "description": "Kateqoriya və qiymətə görə real-vaxt məhsul filtrasiyası, xalis JavaScript ilə həyata keçirilib.",
+      "tags": ["Js", "Tailwind"],
+      "url": "https://javascript-product-filter.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/javascript-product-filter"
+    },
+    {
+      "id": 5,
+      "title": "Calculator",
+      "description": "Endirimli məhsul qiymətlərini avtomatik hesablayan interaktiv kalkulyator tətbiqi.",
+      "tags": ["Js", "Tailwind"],
+      "url": "https://task-calculate-discounted-product-p.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/task-calculate-discounted-product-prices"
+    },
+    {
+      "id": 6,
+      "title": "Tropika",
+      "description": "Minimalist dizaynlı, tək səhifəlik tanıtım saytı.",
+      "tags": ["Js", "Tailwind"],
+      "url": "https://tropika-pied.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/Tropika"
+    },
+    {
+      "id": 7,
+      "title": "Pagination",
+      "description": "Böyük data setlərini səhifələrə bölərək göstərən pagination komponenti.",
+      "tags": ["Js", "Tailwind"],
+      "url": "https://js-pagination-app.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/js-pagination-app"
+    },
+    {
+      "id": 8,
+      "title": "Login-verification",
+      "description": "Real-vaxt form validasiyası ilə email/parol yoxlaması edən giriş sistemi.",
+      "tags": ["Js", "Tailwind"],
+      "url": "https://javascript-login-verification2.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/javascript-login-verification2"
+    },
+    {
+      "id": 9,
+      "title": "Avers",
+      "description": "Məzmunu idarə etmək üçün admin panel funksionallığı əlavə olunmuş veb səhifə.",
+      "tags": ["Js", "Tailwind"],
+      "url": "https://avers-page-v3ch.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/Avers---page"
+    },
+    {
+      "id": 10,
+      "title": "Funksional sayt",
+      "description": "Səbətə əlavə et və istək siyahısı funksiyaları tam işlək olan e-ticarət interfeysi.",
+      "tags": ["Js", "Tailwind"],
+      "url": "https://site1-functionality.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/site1-functionality"
+    },
+    {
+      "id": 11,
+      "title": "Abb kalkulyator",
+      "description": "Bank əməliyyatları üçün hesablama məntiqini simulyasiya edən JavaScript kalkulyatoru.",
+      "tags": ["Js", "Tailwind"],
+      "url": "https://abb-calculator-navy.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/abb-calculator"
+    },
+    {
+      "id": 12,
+      "title": "Property",
+      "description": "Əmlak elanlarını göstərən carousel əsaslı, tam responsiv səhifə.",
+      "tags": ["Js", "Tailwind"],
+      "url": "https://property-carousel.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/property-carousel-"
+    },
+    {
+      "id": 13,
+      "title": "Health-center",
+      "description": "Səhiyyə mərkəzi üçün hazırlanmış tam responsiv tanıtım səhifəsi.",
+      "tags": ["Html", "Css"],
+      "url": "https://health-center-task2.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/Health-Center-task2-"
+    },
+    {
+      "id": 14,
+      "title": "Dento",
+      "description": "Diş klinikası üçün müasir, tam responsiv landing page.",
+      "tags": ["Html", "Css"],
+      "url": "https://dento-1.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/Dento-1"
+    },
+    {
+      "id": 15,
+      "title": "Ingress",
+      "description": "Çoxsəhifəli struktur və komponent arxitekturası ilə akademiya bitirmə layihəsi.",
+      "tags": ["React", "Tailwind"],
+      "url": "https://ingress-ac-final-project.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/Ingress_Ac_Final_Project"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Markup & Style",
+      "items": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "SASS",
+        "Tailwind CSS",
+        "Bootstrap",
+        "Material UI",
+        "Responsive Design"
+      ]
+    },
+    {
+      "category": "JavaScript",
+      "items": ["Vanilla JavaScript", "Fetch API", "Axios", "REST API", "CRUD Metodları"]
+    },
+    {
+      "category": "React",
+      "items": [
+        "React",
+        "Componentlər",
+        "Props",
+        "Props Drilling",
+        "useState",
+        "useEffect",
+        "useRef",
+        "useReducer",
+        "useContext",
+        "useMemo",
+        "useCallback",
+        "React Router"
+      ]
+    },
+    {
+      "category": "Alətlər",
+      "items": ["Git", "GitHub", "npm", "Vercel", "LocalStorage", "SessionStorage"]
+    }
+  ]
+}
