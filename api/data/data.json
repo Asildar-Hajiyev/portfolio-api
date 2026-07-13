@@ -158,7 +158,7 @@
     },
     {
       "category": "Alətlər",
-      "items": ["Git", "GitHub", "npm", "Vercel", "LocalStorage", "SessionStorage"]
+      "items": ["Git", "GitHub", "npm", "Vercel", "LocalStorage", "SessionStorage", "EmailJS"]
     }
   ]
 }
