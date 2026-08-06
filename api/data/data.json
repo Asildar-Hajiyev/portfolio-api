@@ -132,7 +132,8 @@
         "Tailwind CSS",
         "Bootstrap",
         "Material UI",
-        "Responsive Design"
+        "Responsive Design",
+        "Toastify"
       ]
     },
     {
@@ -149,11 +150,11 @@
         "useState",
         "useEffect",
         "useRef",
-        "useReducer",
         "useContext",
         "useMemo",
         "useCallback",
-        "React Router"
+        "React Router",
+        "Redux toolkit"
       ]
     },
     {
