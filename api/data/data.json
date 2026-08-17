@@ -18,11 +18,11 @@
     },
     {
       "id": 3,
-      "title": "Bigspring",
-      "description": "Responsiv, tək səhifəlik landing page dizaynı, animasiyalı UI elementləri ilə.",
-      "tags": ["Js", "Tailwind"],
-      "url": "https://bigspring-five.vercel.app/",
-      "github": "https://github.com/Asildar-Hajiyev/bigspring"
+      "title": "Web-app-admin",
+      "description": "Responsiv, Admin səhifəsi ilə məhsul idarə etməsi yaradılıb",
+      "tags": ["React","Redux Toolkit","Tailwind"],
+      "url": "https://web-app-crud-admin.vercel.app/home",
+      "github": "https://github.com/Asildar-Hajiyev/Web-App-Crud-Admin-"
     },
     {
       "id": 4,
@@ -119,6 +119,14 @@
       "tags": ["React", "Tailwind"],
       "url": "https://ingress-ac-final-project.vercel.app/",
       "github": "https://github.com/Asildar-Hajiyev/Ingress_Ac_Final_Project"
+    },
+    {
+      "id": 16,
+      "title": "Bigspring",
+      "description": "Responsiv, tək səhifəlik landing page dizaynı, animasiyalı UI elementləri ilə.",
+      "tags": ["Js", "Tailwind"],
+      "url": "https://bigspring-five.vercel.app/",
+      "github": "https://github.com/Asildar-Hajiyev/bigspring"
     }
   ],
   "skills": [
